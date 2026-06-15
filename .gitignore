@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# AWS installer
+awscliv2.zip
+
+# ML artifacts
+model/
+
+# Jupyter
+.ipynb_checkpoints/
+aws/
